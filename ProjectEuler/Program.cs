@@ -22,6 +22,7 @@ namespace ProjectEuler
             Console.Read();
             //  Just a new changes
 
+
         }
 
         private static long MultiplesOf3And5(int limit)
