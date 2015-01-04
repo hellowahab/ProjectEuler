@@ -43,6 +43,7 @@
   <ItemGroup>
     <Compile Include="Euler_4_LargestPalindromeProduct.cs" />
     <Compile Include="Euler_5_Smallest multiple.cs" />
+    <Compile Include="Euler_6_Sum_Square_Difference.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

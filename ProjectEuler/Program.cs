@@ -21,6 +21,8 @@ namespace ProjectEuler
             Console.WriteLine(Euler_4_LargestPalindromeProduct.LargestPalindromeProduct(999, 999));
             Console.WriteLine("Smallest multiple");
             Console.WriteLine(Euler_5_Smallest_multiple.Smallest_Multiple(1, 10));
+            Console.WriteLine("Sum Square_Difference");
+            Console.WriteLine(Euler_6_Sum_Square_Difference.Sum_Square_Difference(1,100));
             Console.Read();
             //  Just a new changes
             //  Just a new changes
